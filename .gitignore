@@ -1,0 +1,23 @@
+# General
+.DS_Store
+*.log
+*.tmp
+.idea/
+.vscode/
+
+# Flutter / Dart
+frontend/flutter_app/.dart_tool/
+frontend/flutter_app/.pub/
+frontend/flutter_app/build/
+
+# Java / Spring Boot
+backend/springboot/target/
+backend/springboot/build/
+backend/springboot/.gradle/
+
+# Python / FastAPI
+ai-service/fastapi/__pycache__/
+ai-service/fastapi/*.pyc
+ai-service/fastapi/venv/
+ai-service/fastapi/.venv/
+ai-service/fastapi/.pytest_cache/

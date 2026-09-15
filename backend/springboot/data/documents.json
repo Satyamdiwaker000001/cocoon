@@ -1,0 +1,24 @@
+[
+  {
+    "id": "doc-001",
+    "title": "Indian Passport",
+    "category": "Identity",
+    "owner": "Satyam Diwakar",
+    "expiryDate": "2031-08-15",
+    "status": "Valid",
+    "content": "Official passport document for international travel and primary identity verification.",
+    "tags": ["passport", "government-id", "identity"],
+    "createdAt": "2026-09-15T22:00:00Z"
+  },
+  {
+    "id": "doc-002",
+    "title": "Car Comprehensive Insurance",
+    "category": "Insurance",
+    "owner": "Satyam Diwakar",
+    "expiryDate": "2026-10-03",
+    "status": "Valid",
+    "content": "Vehicle insurance policy covering collision, third-party liability, and emergency roadside assistance.",
+    "tags": ["car", "insurance", "policy"],
+    "createdAt": "2026-09-15T22:05:00Z"
+  }
+]
